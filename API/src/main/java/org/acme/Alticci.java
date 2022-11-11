@@ -8,7 +8,6 @@ import javax.ws.rs.core.MediaType;
 
 @Path("/alticci")
 public class Alticci {
-    Functions function = new Functions();
 
     @GET
     @Produces({MediaType.TEXT_PLAIN})
