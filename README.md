@@ -32,7 +32,7 @@ This is the command that starts the server on dev mode, does not create a docker
 ./mvnw compile quarkus:dev
 ```
 
-> **_NOTE:_**  When you start the api the terminal/cmd will not be able to be used until you stop it (using CTRL + C).
+> **_NOTE:_**  When you start the api the terminal/cmd, will not be able to be used until you stop it (using CTRL + C).
 
 # Accessing swagger
 
