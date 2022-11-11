@@ -25,7 +25,7 @@ To remove the docker image you need do this:
 docker rmi -f alticci/api
 ```
 
-## Using command line:
+## Using command line / Terminal:
 
 This is the command that starts the server on dev mode, does not create a docker this way.
 ```
