@@ -1,0 +1,12 @@
+<div class="border">
+  <mat-card class="example-card">
+    <mat-card-title class="answer">{{answer}}</mat-card-title>
+    <mat-form-field class="example-full-width" appearance="fill">
+      <mat-label>Index number</mat-label>
+      <input matInput (keyup)="onKey($event)">
+    </mat-form-field>
+    <mat-card-actions>
+      <button mat-raised-button color="primary" (click)="getApiAnswer()">Primary</button>
+    </mat-card-actions>
+  </mat-card>
+</div>

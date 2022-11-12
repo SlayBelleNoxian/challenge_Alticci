@@ -13,6 +13,8 @@ public class Alticci {
     @Produces({MediaType.TEXT_PLAIN})
     @Path("/{n}")
     public String alticci(String n) {
+        System.out.println("Abacate pepege");
+
         //Transform the String into a integer
         long value = Long.parseLong(n);
         //The numbers can't be negative so the loop doesn't go infinite

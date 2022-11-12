@@ -1,0 +1,21 @@
+.border{
+  top: 40%;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.answer{
+  min-height:20px;
+}
+
+.example-card {
+  text-align: center;
+  width: 23vh;
+  margin: auto;
+}
+
+
