@@ -14,7 +14,8 @@
 
 .example-card {
   text-align: center;
-  width: 23vh;
+  min-width: 23vh;
+  max-width: 50vh;
   margin: auto;
 }
 
