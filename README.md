@@ -34,7 +34,7 @@ This is the command that starts the server on dev mode, does not create a docker
 
 > **_NOTE:_**  When you start the api the terminal, will not be able to be used until you stop it (using CTRL + C).
 
-To access the API you need to use this end point: ```localhost:8080/alticci/{n}`` (n being the index number)
+To access the API you need to use this end point: ```localhost:8080/alticci/{n}``` (n being the index number)
 
 # Accessing swagger
 
@@ -76,4 +76,4 @@ ng serve
 
 > **_NOTE:_**  When you start the WebApp the terminal, will not be able to be used until you stop it (using CTRL + C).
 
-To access the WebApp you need to use this address: ```localhost:4200``
+To access the WebApp you need to use this address: ```localhost:4200```
